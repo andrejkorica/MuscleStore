@@ -27,7 +27,7 @@
             <ImageView
                 android:layout_width="34dp"
                 android:layout_height="34dp"
-                android:src="@drawable/settings"
+                android:src="@drawable/settings_ico"
                 app:tint="@color/white"
                 android:layout_gravity="center"
                 />
