@@ -1,4 +1,4 @@
-# Muscle Store - ReadMe
+# Muscle Store
 
 Welcome to Muscle Store, your go-to app for managing workout routines, connecting with the fitness community, and enhancing your fitness journey. Please note that Muscle Store is currently a work in progress (WIP), and we appreciate your interest and patience as we continue to develop and improve the app.
 
